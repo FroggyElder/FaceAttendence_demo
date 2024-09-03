@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/avatarPlaceHolder.jpg</file>
+        <file>assets/avatarPlaceHolder.png</file>
+    </qresource>
+</RCC>
